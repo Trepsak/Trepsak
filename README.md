@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Trepsak
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning ML/DL
-- 💞️ I’m looking to collaborate on any ML/DL projects
+- 👀 I’m interested in Agentic Engineering
+- 💞️ I’m looking to collaborate on any Agentic projects
 - 📫 How to reach me ...
 
 <!---
